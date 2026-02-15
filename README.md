@@ -1,2 +1,2 @@
 ## 🚀 Live Demo
-[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://github.com/Omid-Shamkhali/js-shopping-cart-demo
+[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://omid-shamkhali.github.io/js-shopping-cart-demo/)
